@@ -1,5 +1,5 @@
 # FLOWTRACER
-FLOWTRACER training code and comparison against SOTA.
+This project is part of the dissertation titled "Synthetic Image Detection Measuring Rectified Flow Trajectories" for Masters in Computer Science, University of Technology Malaysia. This repository contains FLOWTRACER training code and comparison against SOTA.
 
 1. Download this repository as zip. Create a folder called "FLOWTRACER" somewhere on your device, and extract the contents from the zip into it.
 2. Create a folder called "FLOWTRACER" in your Google Drive. Upload all files from FLOWTRACER into it. It should look like this:
